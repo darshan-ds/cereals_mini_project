@@ -2,6 +2,7 @@
 
 ## Contents
 ***
+1. Installation
 1. Assigning working directory
 2. Importing the necessary libraries
 3. Importing the data
@@ -14,6 +15,16 @@
 7. Relation between columns
 8. Pair Plot
 9. Conclusion
+10. Technologies used
+
+## Installation
+---
+
+The Code is written in Python 3.8.3. If you don't have Python installed you can find it [here](https://www.python.org/downloads/). If you are using a lower version of Python you can upgrade using the pip package, ensuring you have the latest version of pip. To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
+```bash
+pip install -r requirements.txt
+```
+
 
 ## Assigning working directory
 ---
@@ -257,3 +268,8 @@ affects the rating of that cereal in a positive way, and some other features lik
 * sodium
 * sugars
 affect the rating of the cereals in a negative way.
+
+## Technologies Used
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
